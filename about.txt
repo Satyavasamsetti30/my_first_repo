@@ -1,0 +1,7 @@
+Name:Satya
+Course:BSC AIR
+
+GitHub Basics:
+
+⦁	Git: Version control system(local).
+⦁	GitHub:Online platform to store Git projects.
